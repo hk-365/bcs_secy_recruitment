@@ -24,6 +24,9 @@
 - The graph of Success rate (over 50 episodes) is saved as training_metrics_success_rate.png in the repo.
 - Final success rate during training: 69.36%
 - Final trained weights are saved as dqn_weights.pth in "models" directory.
+  ![No. of generations](https://github.com/user-attachments/assets/627c1b9e-2667-4b15-9514-85a6440325f8)
+
+  ![Success_rate_training](https://github.com/user-attachments/assets/38003b14-c1a1-4b65-a534-de0893a86c8e)
   
 ## How to run using trained weights
 - clone the repo
