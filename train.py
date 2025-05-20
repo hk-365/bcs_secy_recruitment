@@ -128,8 +128,6 @@ def train_agent():
     final_success_rate=(np.sum(success_history)/episodes)* 100
     print(f"Final Success Rate: {final_success_rate:.2f}%")
     
-    #Save model
-    torch.save(agent.model.state_dict(), "harry_potter_dqn.pth")
 
 if __name__ == "__main__":
     train_agent()
