@@ -1,6 +1,6 @@
 import pygame
 import time
-from utils.maze_env import MazeEnv
+from utils.Maze_env import MazeEnv
 from utils.dqn_agent import DQNAgent
 
 pygame.init()
