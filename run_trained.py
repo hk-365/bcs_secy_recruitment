@@ -2,6 +2,7 @@ import pygame
 import time
 from utils.Maze_env import MazeEnv
 from utils.dqn_agent import DQNAgent
+from utils.Maze_env import ACTIONS
 
 pygame.init()
 pygame.display.set_caption("Triwizard Tournament - Maze Challenge")
