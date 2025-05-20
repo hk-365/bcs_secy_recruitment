@@ -1,6 +1,6 @@
-#Final Report: Custom Text Processing and Classification Pipeline
+# Final Report: Custom Text Processing and Classification Pipeline
 
-##1. Custom Tokenizer and Lemmatizer Design
+## 1. Custom Tokenizer and Lemmatizer Design
 
 - **Custom Tokenizer**:
   - Converts text to lowercase.
@@ -31,7 +31,7 @@
   - Converts plural nouns to singular by removing trailing "s".
   - Simplifies adjectives by removing common suffixes (ly,ful)
 
-##2. Impact of Repeated-Character Normalization and POS-Guided Lemmatization
+## 2. Impact of Repeated-Character Normalization and POS-Guided Lemmatization
 
 - **Repeated-Character Normalization**:
   - Reduces vocabulary size by preventing multiple exaggerated forms of the same word.
