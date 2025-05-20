@@ -13,8 +13,8 @@
     - Success_rate.jpeg
 - models
     - dqn_weights.pth
-- training_metrics_moving_avg.jpeg
-- training_metrics_success_rate.jpeg
+- training_metrics_moving_avg.png
+- training_metrics_success_rate.png
 - run_trained.py
 ## Environment assumptions:
 - have used first maze txt out of the given three.
