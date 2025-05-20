@@ -45,8 +45,11 @@
   ![Success_rate_training](https://github.com/user-attachments/assets/38003b14-c1a1-4b65-a534-de0893a86c8e)
   
 ## How to run using trained weights
-- clone the repo
-- type in cmd: python run_trained.py
+- clone the repo and then run file run_trained.py i.e. type in cmd:
+    git clone https://github.com/hk-365/bcs_secy_recruitment/
+    cd bcs_secy_recruitment
+    (might need to run this: pip install -r requirements.txt)
+    python run_trained.py
 - It will run for a total of 10 episodes
 - In the end you will see the final success rate
 - The pygame window will open
