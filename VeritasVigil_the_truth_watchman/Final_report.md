@@ -1,4 +1,4 @@
-# Final Report: Custom Text Processing and Classification Pipeline
+# Final Report: VeritasVigil: The truth Watchman
 
 ## 1. Custom Tokenizer and Lemmatizer Design
 
