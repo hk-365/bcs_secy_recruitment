@@ -16,6 +16,7 @@ GRAY = (100, 100, 100)
 GOLD = (255, 215, 0)
 BLUE = (0, 0, 255)
 RED = (255, 0, 0)
+file_path="maze.txt"
 
 def load_maze(file_path):
         walls = []

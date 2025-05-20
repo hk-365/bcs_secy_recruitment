@@ -110,6 +110,7 @@ def train_agent():
     plt.ylabel(f'Moving Average (window size {window_size})')
     plt.title('Moving Average Reward over Episodes')
     plt.grid(True)
+    plt.savefig("training_metrics_moving_avg.png")
     plt.show()
 
     #Succes rate
@@ -120,7 +121,7 @@ def train_agent():
     plt.ylabel(f'Success Rate (moving avg over {window_size} episodes)')
     plt.title('Harry’s Escape Success Rate During Training')
     plt.grid(True)
-    plt.savefig("training_metrics.png")
+    plt.savefig("training_metrics_success_rate.png")
     plt.show()
 
     final_success_rate=(np.sum(success_history)/episodes)* 100

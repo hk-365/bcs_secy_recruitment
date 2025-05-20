@@ -1,6 +1,7 @@
 # Triwizard Maze Challenge - DQN Implementation
 
 ## Environment assumptions:
+- have used first maze txt out of the given three.
 - Harry and death eater both move with same speed.
 - Harry has ability to move 2 spots at a time with 10% probability.
 - Death eater strictly follows bfs algorithm.
