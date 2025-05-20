@@ -1,4 +1,21 @@
 # Goblet of Fire
+
+## Necessary files
+- README.md
+- requirements.txt
+- maze.txt
+- utils
+    - dqn_agent.py
+    - Maze_env.py
+-  train.py
+- training_metrics
+    - No_of_generations.jpeg
+    - Success_rate.jpeg
+- models
+    - dqn_weights.pth
+- training_metrics_moving_avg.jpeg
+- training_metrics_success_rate.jpeg
+- run_trained.py
 ## Environment assumptions:
 - have used first maze txt out of the given three.
 - Harry and death eater both move with same speed.
