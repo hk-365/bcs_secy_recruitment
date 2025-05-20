@@ -1,5 +1,4 @@
-# Triwizard Maze Challenge - DQN Implementation
-
+# Goblet of Fire
 ## Environment assumptions:
 - have used first maze txt out of the given three.
 - Harry and death eater both move with same speed.
