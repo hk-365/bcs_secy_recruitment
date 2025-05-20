@@ -19,10 +19,10 @@
 - Reward shaping to encourage reaching the cup and avoiding the Death Eater
 
 ## Evaluation metrics
-- During training: no. of generations needed for harry to escape 10 times in a row: 284
+- During training: no. of generations needed for harry to escape 10 times in a row (as shown in the image below): 284
 - The graph of Moving avg (over 100 episodes) is saved as training_metrics_moving_avg.png in the repo.
 - The graph of Success rate (over 50 episodes) is saved as training_metrics_success_rate.png in the repo.
-- Final success rate during training: 69.36%
+- Final success rate during training (as shown in the image below): 69.36%
 - Final trained weights are saved as dqn_weights.pth in "models" directory.
   ![No. of generations](https://github.com/user-attachments/assets/627c1b9e-2667-4b15-9514-85a6440325f8)
 
