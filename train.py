@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import os
 from utils.Maze_env import MazeEnv
 from utils.dqn_agent import DQNAgent
-from utils.maze_env import ACTIONS
+from utils.Maze_env import ACTIONS
 
 pygame.init()
 pygame.display.set_caption("Triwizard Tournament - Maze Challenge")
